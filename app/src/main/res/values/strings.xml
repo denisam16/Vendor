@@ -5,6 +5,8 @@
     <string name="login_button">Login</string>
     <string name="register_button">Register</string>
     <string name="search_button">Search...</string>
-    <string name="proba">proba</string>
+    <string name="category">Category</string>
+    <string name="drinks">Drinks</string>
+    <string name="admin">admin</string>
     <string name="login_forgot_password">Did you forgot your passoword?</string>
 </resources>

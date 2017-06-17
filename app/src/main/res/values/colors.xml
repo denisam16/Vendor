@@ -7,4 +7,5 @@
     <color name="colorBackgroundUp">#70db70</color>
     <color name="colorGreen">#ccffcc</color>
     <color name="colorForgotPassword">#00802b</color>
+    <color name="colorBlack">#000000</color>
 </resources>
